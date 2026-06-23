@@ -1,0 +1,8 @@
+{
+    "name": "astrbot_plugin_gjqyou",
+    "version": "1.0.0",
+    "description": "QQ群趣味互动插件，拍、踢、丢、千年杀@群友整活",
+    "author": "oldgirl",
+    "main": "main.py",
+    "dependencies": []
+}
